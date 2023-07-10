@@ -5,3 +5,10 @@ the Rockbuster Stealth management team is planning to use its existing movie lic
 launch an online video rental service in order to stay competitive.
 
 The objective of this analysis is to answer a business questions about movies, revenue, and customers
+
+This repository contains Business Requirements Document, Data dictionary, final presentation and files with queries.
+
+[Tableau Visualization](https://public.tableau.com/views/TotalCustomersandRevenuebyCountry/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Tools
+  - PostgreSQL, pgAdmin, Excel, Tableau
